@@ -50,10 +50,10 @@ setup(
     "scikit-image==0.23.2",
     "timm==0.9.2",
     "tomesd==0.1.3",
-    "torch==2.1.0",
+    "torch",
     "torchdiffeq==0.2.3",
     "torchsde==0.2.6",
-    "transformers==4.30.2",
+    "transformers",
     "httpx==0.24.1",
     "clip"
 ],
