@@ -46,7 +46,7 @@ setup(
     "pytorch_lightning==1.9.4",
     "realesrgan==0.3.0",
     "resize-right==0.0.2",
-    "safetensors==0.3.1",
+    "safetensors",
     "scikit-image==0.23.2",
     "timm==0.9.2",
     "tomesd==0.1.3",
